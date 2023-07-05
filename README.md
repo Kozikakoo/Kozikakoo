@@ -1,9 +1,18 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media0.giphy.com/media/fuQI0IYqADwfm/giphy.gif?cid=ecf05e47rc08bfkr2j4i5yszx4ylw51pvf3bsbjtiwhckv0i&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="100"/>
+   <img src="https://media4.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47sims00cfmwn3xr6es4crv5q25zuvom5228pkh293&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="150"/> 
+ <h1>Hello world 👋 </h1>
+ <h3>Nagornaya Anastasiya 👩 | Frontend developer 💻 | Saint-Petersburg, Russia 🌍 </h3>
+
 </div>
 
 
-### Hi there 👋
+ <h4>About me</h2>
+ 
+
+
+
+
+
 
 <!--
 **Kozikakoo/Kozikakoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
